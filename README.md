@@ -1,1 +1,1 @@
-# GIT_PR06_PIATNITSKII
+# GIT_PR06_PIATNITSKII##ПР06 Управление ветками
